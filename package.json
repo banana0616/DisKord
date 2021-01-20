@@ -1,0 +1,12 @@
+{
+  "name": "diskord",
+  "version": "1.0.0",
+  "description": "다시 돌아온 diskord.",
+  "main": "index.js",
+  "repository": "https://github.com/banana0616/DisKord",
+  "author": "바나나, 삼해트, 언디파인드",
+  "license": "GNU General Public License v3.0",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
